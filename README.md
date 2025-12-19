@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Tanjum Amin Prethy</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prethy4&label=Profile%20views&color=0e75b6&style=flat" alt="prethy4" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, NLP, Computer vision, Meta Learning  and Data analytics ...**
+- 🌱 I’m currently learning **Machine Learning,AI, NLP, Computer vision, Meta Learning  and Data analytics ...**
 
 - 📫 How to reach me **tanjumobony44@gmail.com**
 
