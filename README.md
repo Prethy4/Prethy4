@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, AI, NLP, Computer vision, Meta Learning  and Data analytics ...**
 
-- 📫 How to reach me **tanjumobony44@gmail.com**
+- 📫 How to reach me **tprethy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://www.linkedin.com/in/tanjum-amin-prethy-3895a2287" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="c" width="40" height="40"/>  </a>
